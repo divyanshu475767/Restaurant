@@ -9,9 +9,9 @@
   }
   
   .modal {
-    position: fixed;
     z-index: 30;
-
+    position: fixed;
+    
     top: 20vh;
     left: 5%;
     width: 90%;
@@ -30,7 +30,9 @@
     }
   }
 
-    
+  
+
+
   @keyframes slide-down {
     from {
       opacity: 0;
